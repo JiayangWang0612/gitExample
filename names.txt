@@ -1,2 +1,2 @@
-boss,NetID,LastName,FirstName
+boss,jwang2657,Wang,Jiayang
 employee,xzou42,Xu,Zou
